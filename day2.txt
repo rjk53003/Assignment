@@ -1,0 +1,23 @@
+What is computer?
+Computer is a electronic device that is used to run various type of application, calculations and also use of entertatment.
+
+What is RAM?
+RAM is stant for Random Access Memory.It is the primery memory which is directly connected to the proccessor and it is made of semiconductor which made the RAM very fast.
+
+Where is data stored in computer?
+Data is stored in HDD and SSD.
+
+What is that input used to type text and number on a document in the computer System?
+Keybord.
+
+What are the output devices?
+Monitor,  printer , speaker , headphone , video card.
+
+Which is the input device that allow a user to move the cursor or pointer on the screen?
+Mouse.
+
+Which langauge is directly understood by the computer without a transiation program?
+Binary Language.
+
+What are input devices?
+Mouse, keyboard , scanner, joystick etc.
